@@ -1,0 +1,12 @@
+# artefakty robocze
+.~lock.*
+build/frames/
+build/render/
+build/calc/
+build/pdfx/
+build/patch*.py
+build/*.bak
+build/dump.py
+build/biznesplan_raw.xlsx
+# materiał źródłowy zadania (nie jest częścią projektu)
+*.docx
